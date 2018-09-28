@@ -7,7 +7,7 @@
   "keywords": ["plugin","wordpress","wp-sync-db","media"],
   "require": {
     "composer/installers": "~1.4",
-    "palmiak/wp-sync-db.git": "*"
+    "palmiak/wp-sync-db": "*"
   },
   "scripts": {
     "test": "./test.sh"
