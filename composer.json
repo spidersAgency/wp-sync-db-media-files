@@ -1,6 +1,7 @@
 {
   "name": "spidersagency/wp-sync-db-media-files",
   "type": "wordpress-plugin",
+  "version": "1.1.4",
   "homepage": "https://github.com/spidersAgency/wp-sync-db-media-files",
   "license": "GPL-2.0",
   "description": "WP Sync DB Media File Addon for WP Sync DB",
