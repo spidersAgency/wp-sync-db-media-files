@@ -5,6 +5,10 @@
   "license": "GPL-2.0",
   "description": "WP Sync DB Media File Addon for WP Sync DB",
   "keywords": ["plugin","wordpress","wp-sync-db","media"],
+  "require": {
+    "composer/installers": "~1.4",
+    "palmiak/wp-sync-db.git": "*"
+  },
   "scripts": {
     "test": "./test.sh"
   }
